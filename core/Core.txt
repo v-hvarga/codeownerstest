@@ -1,1 +1,1 @@
-sadasdsThis is a file in the Core, modified
+Core file
