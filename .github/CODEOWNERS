@@ -1,2 +1,1 @@
-# Path is relative to the parent directory, and not .github
-core/* @v-hvarga
+core/ @v-hvarga
